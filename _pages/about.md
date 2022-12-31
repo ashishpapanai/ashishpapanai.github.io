@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Computer Vision | Medical Image Analysis | Weakly Supervised Learning
 
