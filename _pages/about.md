@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Usable Security | Privacy | Formal Verification
+subtitle: Computer Vision | Medical Imaging | Weakly Supervised Learning
 
 profile:
   align: right
-  image: foto-casamento.jpeg
+  image: ashish-foto.jpg
   address: 
 
 news: true  # includes a list of news items
@@ -14,13 +14,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Student at Carnegie Mellon University in Pittsburg and in Instituto Superior Técnico in the University of Lisboa. 
+I am a seniour undergraduate student at [Maharaja Agrasen Institute of Technology, Delhi](https://www.mait.ac.in/). I am also a visiting undergraduate researcher at [Indian Institute of Technology Delhi](http://iitd.ac.in/).
 
-My current research interests are **usable security**, **formal verification** and, password managers. De-Fi finance and its link to usable security is also a topic that interests me. 
+My current research interests are **Deep Learning for Computer Vision**, **Medical Image Analysis**, Explainable AI and Weakly Supervised Learning. . 
 
-I'm currently part of the [PassCert Project](https://passcert-project.github.io/) that aims to build a proof-of-concept password manager that through the use of formal verification, is guaranteed to satisfy properties on data storage and password generation. We aim to determine whether formal verification can increase users’ confidence in PMs and thus increase their adoption.
+I'm currently part of the [Computer Vision Group IITD](https://vision-iitd.github.io/) and I am wokring on Mobility Assitant for Visually Impaired [(MAVI)](http://www.cse.iitd.ac.in/mavi) which is an ambitious project to develop a system that can help the visually impaired navigate through their environment. I am also working on Gall Bladder Cancer Detection from Ultrasound Images, and developing a method to explain the predictions of a deep learning model.
 
-I also love volunteering and I'm currently collaborating with the [Portuguese Red Cross](https://www.cruzvermelha.pt/estruturas-locais-lista/169-castelo-branco.html) teaching young afghan refugies programming. I play the violin and was part of my university musical group -- [TMIST](https://tmist.tecnico.ulisboa.pt/). My hobbies include hiking and reading unpublished books.
+Apart from my projects at IITD, as a part of my undergraduate thesis at MAIT, I am working on [VIhanceD](https://github.com/VIhanceD), which is an optimised and efficient deep learning model for Video Super Resolution on mobile devices.
 
 Feel free to reach out to me using my socials if you want to talk about any of these topics.
 

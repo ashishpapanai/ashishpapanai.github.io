@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Towards Improving the Usability of Password Managers
-date: 2021-9-10 15:59:00-0000
+title: StockDL, Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning
+date: 2022-03-14 15:59:00-0000
 inline: true
 ---
 
-Presentation of the paper and [poster](/assets/pdf/1_Towards.pdf) **Towards Improving the Usability of Password Managers**
-\\
-This paper was presented in INForum. 
+Presented StockDL at the [4th International Conference on Machine Intelligence and Signal Processing ](https://misp2022.nitrr.ac.in/) (MISP 2022) in Raipur, Chattisgarh, India.
