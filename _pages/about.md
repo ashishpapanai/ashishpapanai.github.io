@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Vision | Medical Image Analysis | Weakly Supervised Learning
 
@@ -14,11 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a seniour undergraduate student at [Maharaja Agrasen Institute of Technology, Delhi](https://www.mait.ac.in/). I am also a visiting undergraduate researcher at [Indian Institute of Technology Delhi](http://iitd.ac.in/).
+I am a senior undergraduate student at [Maharaja Agrasen Institute of Technology, Delhi](https://www.mait.ac.in/). I am also a visiting undergraduate researcher at [Indian Institute of Technology Delhi](http://iitd.ac.in/).
 
-My current research interests are **Deep Learning for Computer Vision**, **Medical Image Analysis**, Explainable AI and Weakly Supervised Learning. . 
+My current research interests are **Deep Learning for Computer Vision**, **Medical Image Analysis**, Explainable AI and Weakly Supervised Learning. 
 
-I'm currently part of the [Computer Vision Group IITD](https://vision-iitd.github.io/) and I am wokring on Mobility Assitant for Visually Impaired [(MAVI)](http://www.cse.iitd.ac.in/mavi) which is an ambitious project to develop a system that can help the visually impaired navigate through their environment. I am also working on Gall Bladder Cancer Detection from Ultrasound Images, and developing a method to explain the predictions of a deep learning model.
+I'm currently part of the [Computer Vision Group IITD](https://vision-iitd.github.io/) and I am working on Mobility Assitant for Visually Impaired [(MAVI)](http://www.cse.iitd.ac.in/mavi) which is an ambitious project to develop a system that can help the visually impaired navigate through their environment. I am also working on Gall Bladder Cancer Detection from Ultrasound Images, and developing a method to explain the predictions of a deep learning model.
 
 Apart from my projects at IITD, as a part of my undergraduate thesis at MAIT, I am working on [VIhanceD](https://github.com/VIhanceD), which is an optimised and efficient deep learning model for Video Super Resolution on mobile devices.
 
