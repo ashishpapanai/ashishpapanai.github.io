@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Vision | Medical Imaging | Weakly Supervised Learning
+subtitle: Computer Vision | Medical Image Analysis | Weakly Supervised Learning
 
 profile:
   align: right
