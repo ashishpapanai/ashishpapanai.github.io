@@ -14,13 +14,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate student at [Maharaja Agrasen Institute of Technology, Delhi](https://www.mait.ac.in/). I am also a visiting undergraduate researcher at [Indian Institute of Technology Delhi](http://iitd.ac.in/).
+I am a senior undergraduate student at [Maharaja Agrasen Institute of Technology, Delhi](https://www.mait.ac.in/), and ML Intern at [Wadhwani AI](https://www.wadhwaniai.org/) . I was also a visiting undergraduate researcher (2022-2023) at [Indian Institute of Technology Delhi](http://iitd.ac.in/).
 
 My current research interests are **Deep Learning for Computer Vision**, **Medical Image Analysis**, Explainable AI and Weakly Supervised Learning. 
 
-I'm currently part of the [Computer Vision Group IITD](https://vision-iitd.github.io/) and I am working on Mobility Assitant for Visually Impaired [(MAVI)](http://www.cse.iitd.ac.in/mavi) which is an ambitious project to develop a system that can help the visually impaired navigate through their environment. I am also working on Gall Bladder Cancer Detection from Ultrasound Images, and developing a method to explain the predictions of a deep learning model.
+I'm currently part of the Cotton ML Team of Wadhwani AI and I am working on [trap based pest managemet](https://www.wadhwaniai.org/programs/pest-management/) for cotton farming. My role at Wadhwani is to develop a deep learning model that can detect the presence of pests in the field and classify them into different alert categories. 
 
-Apart from my projects at IITD, as a part of my undergraduate thesis at MAIT, I am working on [VIhanceD](https://github.com/VIhanceD), which is an optimised and efficient deep learning model for Video Super Resolution on mobile devices.
+Apart from my projects at Wadhwani AI, as a part of my undergraduate thesis at MAIT, I am working on [AGNI](https://agniapp.live/), which is a browser extension and a custom mobile browser to block objectionable content on the internet, without compromising on the user experience.
 
 Feel free to reach out to me using my socials if you want to talk about any of these topics.
 
