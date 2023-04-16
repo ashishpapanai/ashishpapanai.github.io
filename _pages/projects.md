@@ -8,7 +8,7 @@ nav: true
 
 **AGNI: Advanced Guard for Navigating Internet**<br>
 March '23 - Present, As a part of B.Tech. Thesis Project, MAIT, Delhi<br>
-AGNI aims to create a safe browsing space by blocking multimodal obsenity in form of text, audio, video and images. 
+AGNI aims to create a safe browsing space by blocking multimodal obscenity in form of text, audio, video and images. 
 The project is also submitted to [KAVACH 2023](https://kavach.mic.gov.in/), a national level cybersecurity competition hosted by Govt. of India, AICTE, Bureau of Police Research and Development and Minsitry of Home Affairs. <br>
 Site: [AGNI](https://agniapp.live/)
 
