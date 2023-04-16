@@ -18,7 +18,7 @@ I am a senior undergraduate student at [Maharaja Agrasen Institute of Technology
 
 My current research interests are **Deep Learning for Computer Vision**, **Medical Image Analysis**, Explainable AI and Weakly Supervised Learning. 
 
-I'm currently part of the Cotton ML Team of Wadhwani AI and I am working on [trap based pest managemet](https://www.wadhwaniai.org/programs/pest-management/) for cotton farming. My role at Wadhwani is to develop a deep learning model that can detect the presence of pests in the field and classify them into different alert categories. 
+I'm currently part of the Cotton ML Team of Wadhwani AI and I am working on [trap based pest managemet](https://www.wadhwaniai.org/programs/pest-management/) for cotton farming. My role at Wadhwani AI is to develop a deep learning model that can detect the presence of pests in the field and classify them into different alert categories. 
 
 Apart from my projects at Wadhwani AI, as a part of my undergraduate thesis at MAIT, I am working on [AGNI](https://agniapp.live/), which is a browser extension and a custom mobile browser to block objectionable content on the internet, without compromising on the user experience.
 
