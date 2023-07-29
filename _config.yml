@@ -8,7 +8,7 @@ middle_name: #M.
 last_name: Papanai
 email: ashishpapanai00@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Web Portfolio of Ashish Papanai, a Senior Undergraduate Student at MAIT Delhi, India. 
+  Web Portfolio of Ashish Papanai, Associate Machine Learning Scientist at Wadhwani AI. 
 # footer_text: > 
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
