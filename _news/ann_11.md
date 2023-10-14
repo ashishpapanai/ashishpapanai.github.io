@@ -5,4 +5,4 @@ date: 2023-07-17 06:59:00-0000
 inline: true
 ---
 
-Joined Wadhwani Institute for Artificial Intelligence as Assocuate Machine Learning Scientist. 🥂
+Joined Wadhwani Institute for Artificial Intelligence as Associate Machine Learning Scientist. 🥂
