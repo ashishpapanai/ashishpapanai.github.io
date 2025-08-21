@@ -1,0 +1,59 @@
+{% include base_path %}
+
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"
+  type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Additional SEO Meta Tags -->
+<meta name="author" content="Ashish Papanai">
+<meta name="keywords"
+  content="Machine Learning, Computer Vision, Deep Learning, Agricultural AI, Research, Ashish Papanai, Wadhwani AI">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+
+<!-- Schema.org structured data for Person -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ashish Papanai",
+  "jobTitle": "Associate ML Scientist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Wadhwani Institute for Artificial Intelligence"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Guru Gobind Singh Indraprastha University"
+  },
+  "url": "https://ashishpapanai.github.io",
+  "sameAs": [
+    "https://linkedin.com/in/ashish-papanai",
+    "https://github.com/ashishpapanai"
+  ],
+  "email": "ashishpapanai00@gmail.com",
+  "telephone": "+91-8510037887",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Delhi",
+    "addressCountry": "India"
+  }
+}
+</script>
