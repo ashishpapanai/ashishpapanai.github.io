@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ashish Papanai / Machine Learning Researcher"
+title                    : "Ashish Papanai | Portfolio"
 title_separator          : "-"
 name                     : &name "Ashish Papanai"
 description              : &description "Machine Learning Researcher and Associate ML Scientist at Wadhwani Institute for Artificial Intelligence"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Ashish Papanai"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming MSc Machine Learning student at the University of Tübingen. Selected for the ELIZA Master's Scholarship. Research interests: AI Security, Trustworthy AI, Computer Vision, Medical Image AI, and AI for Social Good."
+  bio              : "Incoming MSc Machine Learning student at the University of Tübingen."
   location         : "Delhi, India"
-  employer         :
+  employer         : "University of Tübingen"
   uri              : "https://ashishpapanai.github.io"
   email            : "ashishpapanai00@gmail.com" 
 
@@ -126,7 +126,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : "your-google-verification-code"
+google_site_verification : "google092cd2cf0fe285e9.html"
 bing_site_verification   : "your-bing-verification-code"
 alexa_site_verification  : "your-alexa-verification-code"
 yandex_site_verification : "your-yandex-verification-code"
