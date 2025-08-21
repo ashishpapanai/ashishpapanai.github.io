@@ -4,12 +4,9 @@ title: "Experience & Professional Background"
 permalink: /experience/
 author_profile: true
 ---
-
-# Professional Experience
-
 ## Current Role
 
-**Incoming MSc Machine Learning Student** (Starting Fall 2024)  
+**Incoming MSc Machine Learning Student** (Starting Winter 2025)  
 *University of Tübingen, Germany*  
 *ELIZA Master's Scholarship Recipient*
 
@@ -19,7 +16,7 @@ author_profile: true
 
 ## Previous Experience
 
-### Associate ML Scientist - 2 (January 2025 - Present)
+### Associate ML Scientist - 2 (January 2025 - September 2025)
 *Wadhwani Institute for Artificial Intelligence, Delhi, India*
 
 - **Advanced Computer Vision**: Developing computer vision models for crop monitoring using Joint Positional Embedding models
