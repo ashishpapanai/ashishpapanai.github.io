@@ -25,10 +25,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Ashish Papanai"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming MSc Machine Learning student at the University of Tübingen."
-  location         : "Delhi, India"
+  bio              : "MSc Machine Learning"
+  location         : "Tübingen, Germany"
   employer         : "University of Tübingen"
-  uri              : "https://ashishpapanai.github.io"
+  uri              : 
   email            : "ashishpapanai00@gmail.com" 
 
   # Academic websites
