@@ -13,7 +13,7 @@ redirect_from:
 
 | Degree | Institution | Duration | GPA/Details |
 |--------|-------------|----------|-------------|
-| **MSc Machine Learning** | University of Tübingen, Germany | 2024 - 2026 (Expected) | ELIZA Master's Scholarship Recipient |
+| **MSc Machine Learning** | University of Tübingen, Germany | 2024 - 2026 (Expected) | ELIZA Master's Scholarship Recipient<br>• Advanced Machine Learning, Deep Learning, Computer Vision<br>• Natural Language Processing, Statistical Learning Theory<br>• Optimization Methods, Bayesian Methods, Reinforcement Learning<br>• Research focus: Computer Vision and Agricultural AI |
 | **B.Tech Computer Science Engineering** | Guru Gobind Singh Indraprastha University, Delhi | 2019 - 2023 | GPA: 9.6/10 |
 
 ## Professional Experience

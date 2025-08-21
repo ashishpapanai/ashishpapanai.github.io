@@ -6,7 +6,6 @@ redirect_from:
   - /projects.html
 ---
 
-
 ### AIDE - Artificial Intelligence Guide for Visually Impaired
 **Description**: Developed AIDE (An audio guide for visually impaired persons navigation and assistance). The project is an improved implementation of YOLO v3 Algorithm for object detection and classification and Canny's Edge detection algorithm for lane detection and navigation.
 

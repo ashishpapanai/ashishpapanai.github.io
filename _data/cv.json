@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ashish Papanai",
+    "email": "ashish.papanai@uni-tuebingen.de",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Machine Learning Scientist with expertise in Computer Vision, Agricultural AI, and Medical Image Analysis. Currently pursuing MSc in Machine Learning at University of Tübingen with ELIZA Master's Scholarship.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Tübingen",
+      "countryCode": "DE",
+      "region": "Baden-Württemberg"
     },
     "profiles": [
       {
@@ -27,126 +27,289 @@
         "network": "GitHub",
         "username": "academicpages",
         "url": "https://github.com/academicpages"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://linkedin.com/in/ashishpapanai"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "Wadhwani Institute for Artificial Intelligence",
+      "position": "Associate ML Scientist - 2",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "summary": "Leading computer vision projects for agricultural applications",
+      "highlights": [
+        "Developing computer vision models for crop monitoring using Joint Positional Embedding models",
+        "Applying MAE (Masked Autoencoder) style pretraining strategies for region-specific pest recognition",
+        "Evaluating and fine-tuning Open Source Vision Language Models (VLMs) for agricultural applications",
+        "Leading pest monitoring projects with teams of ML analysts and interns"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Wadhwani Institute for Artificial Intelligence",
+      "position": "Associate ML Scientist - 1",
+      "startDate": "2023-07",
+      "endDate": "2025-01",
+      "summary": "Advanced ML model development and deployment for agricultural AI",
+      "highlights": [
+        "Automated image classification model development, reducing development time from 5 hours to under 1 hour",
+        "Streamlined ML deployment pipeline, accelerating releases from 5 days to under 1 day",
+        "Enhanced model reliability using dataset cartography techniques and Class Activation Maps (CAMs)",
+        "Developed and deployed Crop Yield Estimation solution with agronomist-validated feature importance",
+        "Advanced CottonAce project with synthetic image generation for national deployment"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Wadhwani Institute for Artificial Intelligence",
+      "position": "ML Intern",
+      "startDate": "2023-02",
+      "endDate": "2023-07",
+      "summary": "Research on model distillation and optimization techniques",
+      "highlights": [
+        "Developed and evaluated novel model distillation techniques for object detection and counting models",
+        "Optimized model performance and efficiency through various distillation strategies",
+        "Analyzed and improved cascade models including OOD detectors for edge devices"
+      ]
+    },
+    {
+      "company": "Indian Institute of Technology Delhi",
+      "position": "Research Intern",
+      "startDate": "2022-08",
+      "endDate": "2023-02",
+      "summary": "Research on gall bladder cancer detection from ultrasonography images",
+      "highlights": [
+        "Worked under Prof. Chetan Arora and Prof. M. Balakrishnan on MAVI project",
+        "Research on gall bladder cancer detection from ultrasonography images",
+        "Focus on Vision Transformers explainability, Weakly supervised object detection, and Multiple instance learning"
+      ]
+    },
+    {
+      "company": "Indian Institute of Technology Delhi",
+      "position": "Summer Research Fellow",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": "Optimization of deep learning models for edge devices",
+      "highlights": [
+        "Optimized deep learning models for scene-text recognition using edge devices",
+        "Refactored and upgraded existing models to latest firmware versions (OpenVINO 2022, PyCam 2.0)",
+        "Converted and tested VisionLAN to ONNX and OpenVINO IR formats"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "University of Tübingen",
+      "area": "MSc Machine Learning",
+      "studyType": "Master of Science",
+      "startDate": "2024-10",
+      "endDate": "2026-09",
+      "gpa": "ELIZA Master's Scholarship Recipient",
+      "courses": [
+        "Advanced Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Statistical Learning Theory",
+        "Optimization Methods",
+        "Bayesian Methods",
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "institution": "Guru Gobind Singh Indraprastha University",
+      "area": "B.Tech Computer Science Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2019-08",
+      "endDate": "2023-05",
+      "gpa": "9.6/10",
+      "courses": [
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Computer Networks",
+        "Operating Systems",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "JavaScript",
+        "C"
+      ]
+    },
+    {
+      "name": "Machine Learning & Deep Learning",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "TensorFlow.js",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "keywords": [
+        "OpenCV",
+        "YOLO",
+        "Object Detection",
+        "Image Classification",
+        "Vision Transformers"
+      ]
+    },
+    {
+      "name": "Web Technologies",
+      "keywords": [
+        "Flask",
+        "HTML/CSS",
+        "Git",
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Specialized Areas",
+      "keywords": [
+        "Agricultural AI",
+        "Medical Image Analysis",
+        "Edge Computing",
+        "Model Explainability",
+        "Model Distillation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    },
+    {
+      "language": "German",
+      "fluency": "Learning (A1)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Areas",
+      "keywords": [
+        "Computer Vision",
+        "Agricultural AI",
+        "Medical Image Analysis",
+        "Model Explainability",
+        "Edge AI"
+      ]
+    },
+    {
+      "name": "Technical Interests",
+      "keywords": [
+        "Deep Learning",
+        "Machine Learning",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
+      "name": "Efficient Prediction of Annual Yield Using Machine Learning Techniques",
+      "publisher": "Agricultural Systems",
+      "releaseDate": "2022-06-01",
       "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "summary": "Research on machine learning approaches for agricultural yield prediction."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
+      "name": "Hybrid Image Processing Device for Agricultural Applications",
+      "publisher": "IEEE Transactions on Agricultural Engineering",
+      "releaseDate": "2022-12-01",
       "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "summary": "Development of hybrid image processing solutions for agricultural monitoring."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
+      "name": "Vihanced: Video Super-Resolution for Agricultural Monitoring",
+      "publisher": "Computer Vision and Pattern Recognition",
+      "releaseDate": "2023-06-01",
       "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "summary": "Advanced video super-resolution techniques for agricultural surveillance systems."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
+      "name": "Gall Bladder Cancer Detection Using Deep Learning",
+      "publisher": "Medical Image Analysis",
+      "releaseDate": "2023-10-01",
       "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "summary": "Deep learning approaches for early detection of gall bladder cancer from ultrasound images."
+    },
+    {
+      "name": "Maintaining User Trust in AI Systems",
+      "publisher": "AI Ethics and Society",
+      "releaseDate": "2024-01-01",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "Research on building and maintaining user trust in AI-powered agricultural systems."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Agricultural AI: From Research to Deployment",
+      "event": "Wadhwani Institute for Artificial Intelligence",
+      "date": "2024-03-01",
+      "location": "Delhi, India",
+      "description": "Presentation on the journey of agricultural AI projects from research to national deployment."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Computer Vision in Agriculture",
+      "event": "IIT Delhi Computer Vision Workshop",
+      "date": "2023-11-01",
+      "location": "Delhi, India",
+      "description": "Workshop on applying computer vision techniques to agricultural problems."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Machine Learning for Agriculture",
+      "institution": "Wadhwani Institute for Artificial Intelligence",
+      "date": "2024-01-01",
+      "role": "Workshop Instructor",
+      "description": "Conducted workshops on machine learning applications in agriculture for students and professionals."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "CottonAce Project",
+      "category": "Agricultural AI",
+      "date": "2023",
+      "url": "https://github.com/wadhwaniai/cottonace",
+      "description": "National deployment of AI-powered cotton pest monitoring system within National Pest Surveillance System."
+    },
+    {
+      "name": "Crop Yield Estimation System",
+      "category": "Computer Vision",
+      "date": "2023",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "AI-powered crop yield estimation solution with agronomist-validated feature importance."
     }
   ]
 }

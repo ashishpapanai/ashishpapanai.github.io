@@ -6,8 +6,6 @@ redirect_from:
   - /awards.html
 ---
 
-# Awards & Honors
-
 ## 2023
 - **Finalist, Singapore India Hackathon 2023**  
   *Nanyang Technological University and Ministry of Education India*  
