@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-# Education
 
 ## Master of Science in Machine Learning
 **University of Tübingen, Germany**  
