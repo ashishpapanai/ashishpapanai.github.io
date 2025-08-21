@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ashish Papanai | Portfolio"
+title                    : "Ashish Papanai"
 title_separator          : "-"
 name                     : &name "Ashish Papanai"
 description              : &description "Machine Learning Researcher and Associate ML Scientist at Wadhwani Institute for Artificial Intelligence"

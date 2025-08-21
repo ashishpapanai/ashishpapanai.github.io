@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# Ashish Papanai
+<!-- # Ashish Papanai
 
 **Incoming MSc Machine Learning Student**  
 *University of Tübingen*  
-*ELIZA Master's Scholarship Recipient*
+*ELIZA Master's Scholarship Recipient* -->
 
 ## Overview
 
