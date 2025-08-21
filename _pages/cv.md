@@ -64,12 +64,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Awards and Honors
 ======
 * **2023**: Finalist, Singapore India Hackathon 2023 [Nanyang Technological University and Ministry of Education India]
