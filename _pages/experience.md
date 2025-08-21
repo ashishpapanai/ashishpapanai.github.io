@@ -92,3 +92,10 @@ author_profile: true
 - **Medical Image AI**: Healthcare applications and diagnostic assistance
 - **AI for Social Good**: Agricultural technology and assistive technologies
 - **Model Explainability**: Interpretable AI for real-world deployment
+
+## Academic Links
+
+- **[University of Tübingen MSc Machine Learning Program](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/)**
+- **[Guru Gobind Singh Indraprastha University](https://www.ipu.ac.in/)**
+- **[IIT Delhi](https://home.iitd.ac.in/)**
+- **[Wadhwani Institute for Artificial Intelligence](https://www.wadhwaniai.org/)**

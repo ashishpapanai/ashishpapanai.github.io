@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ashish Papanai - Machine Learning Researcher"
+title: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 *University of Tübingen*  
 *ELIZA Master's Scholarship Recipient* -->
 
-## Overview
+<!-- ## Overview -->
 
 I am an incoming MSc Machine Learning student at the University of Tübingen, selected for the prestigious ELIZA Master's Scholarship. Previously, I worked as an Associate ML Scientist at the Wadhwani Institute for Artificial Intelligence, where I specialized in computer vision and agricultural AI applications.
 
