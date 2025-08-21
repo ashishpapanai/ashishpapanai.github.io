@@ -13,15 +13,15 @@ def create_favicon(size, output_path):
     draw = ImageDraw.Draw(img)
     
     # Theme colors
-    primary_color = (82, 173, 200)  # #52adc8
-    border_color = (47, 127, 147)   # #2f7f93
-    text_color = (255, 255, 255)    # White
+    primary_color = (82, 173, 200, 255)  # #52adc8 with full alpha
+    border_color = (47, 127, 147, 255)   # #2f7f93 with full alpha
+    text_color = (255, 255, 255, 255)    # White with full alpha
     
     # Calculate circle parameters
     center = size // 2
     radius = (size // 2) - 2
     
-    # Draw circle background
+    # Draw circle background with transparency
     draw.ellipse([center - radius, center - radius, 
                   center + radius, center + radius], 
                  fill=primary_color, outline=border_color, width=2)

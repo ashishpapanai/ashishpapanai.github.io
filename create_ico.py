@@ -17,12 +17,13 @@ def create_ico():
     # Open the PNG image
     img = Image.open(png_path)
     
-    # Convert to RGB if necessary (ICO doesn't support RGBA)
+    # Keep transparency for ICO (modern ICO format supports transparency)
     if img.mode == 'RGBA':
-        # Create a white background
-        background = Image.new('RGB', img.size, (255, 255, 255))
-        background.paste(img, mask=img.split()[-1])  # Use alpha channel as mask
-        img = background
+        # ICO can handle transparency, so keep it as is
+        pass
+    else:
+        # Convert to RGBA if it's not already
+        img = img.convert('RGBA')
     
     # Save as ICO
     ico_path = "images/favicon.ico"
