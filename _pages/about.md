@@ -15,7 +15,7 @@ redirect_from:
 
 <!-- ## Overview -->
 
-I am an incoming MSc Machine Learning student at the University of Tübingen and an ELIZA Master’s Scholarship recipient. My background as an Associate ML Scientist - 2 at the Wadhwani Institute for Artificial Intelligence centered on computer vision and agricultural AI. My research focuses on developing innovative deep learning solutions for crop monitoring, pest detection, and yield estimation, leveraging my experience in model optimization and real-world AI deployment.
+I am an incoming MSc Machine Learning student at the University of Tübingen and an ELIZA Master’s Scholarship recipient. My background as an Associate ML Scientist - 2 at the Wadhwani Institute for Artificial Intelligence centered on computer vision and agricultural AI. My research focuses on developing innovative deep learning solutions for crop monitoring, pest detection, and yield estimation, applying my experience in model optimization and real-world AI deployment.
 
 My research interests lie in developing human-centric, reliable, and ethical AI for social impact. I translate complex data into practical tools, demonstrating a strong dedication to impactful AI across diverse domains.
 
