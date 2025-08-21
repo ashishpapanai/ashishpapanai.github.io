@@ -25,21 +25,21 @@ author:
   avatar           : "profile.png"
   name             : "Ashish Papanai"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Researcher and Associate ML Scientist at Wadhwani Institute for Artificial Intelligence, specializing in computer vision and agricultural AI"
+  bio              : "Incoming MSc Machine Learning student at the University of Tübingen. Selected for the ELIZA Master's Scholarship. Research interests: AI Security, Trustworthy AI, Computer Vision, Medical Image AI, and AI for Social Good."
   location         : "Delhi, India"
-  employer         : "Wadhwani Institute for Artificial Intelligence"
+  employer         :
   uri              : "https://ashishpapanai.github.io"
   email            : "ashishpapanai00@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=MpzridIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "ashish-papanai"
+  linkedin         : "ashishpapanai"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "ashishpapanai1" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -217,9 +217,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -251,15 +248,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""

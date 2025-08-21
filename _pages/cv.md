@@ -70,12 +70,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Awards and Honors
 ======
 * **2023**: Finalist, Singapore India Hackathon 2023 [Nanyang Technological University and Ministry of Education India]

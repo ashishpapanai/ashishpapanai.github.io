@@ -29,8 +29,8 @@ GPA: 9.6/10
 
 ## Contact Information
 
-- **Email**: ashishpapanai00@gmail.com
-- **Phone**: +91-8510037887
+- **Email**: ashishpapanai00 [at] gmail [dot] com
+- **Phone**:
 - **Location**: Delhi, India
 - **LinkedIn**: [ashish-papanai](https://linkedin.com/in/ashish-papanai)
 - **GitHub**: [ashishpapanai](https://github.com/ashishpapanai)

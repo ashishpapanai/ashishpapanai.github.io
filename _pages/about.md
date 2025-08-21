@@ -9,77 +9,68 @@ redirect_from:
 
 # Ashish Papanai
 
-**Machine Learning Researcher & Associate ML Scientist**  
-*Wadhwani Institute for Artificial Intelligence*
+**Incoming MSc Machine Learning Student**  
+*University of Tübingen*  
+*ELIZA Master's Scholarship Recipient*
 
-## About Me
+## Overview
 
-I am a Machine Learning Researcher and Associate ML Scientist at the Wadhwani Institute for Artificial Intelligence, specializing in computer vision and agricultural AI applications. My research focuses on developing innovative solutions for crop monitoring, pest detection, and yield estimation using advanced deep learning techniques.
+I am an incoming MSc Machine Learning student at the University of Tübingen, selected for the prestigious ELIZA Master's Scholarship. Previously, I worked as an Associate ML Scientist at the Wadhwani Institute for Artificial Intelligence, where I specialized in computer vision and agricultural AI applications.
 
-## Current Role
-
-**Associate ML Scientist - 2** (January 2025 - Present)  
-*Wadhwani Institute for Artificial Intelligence, Delhi, India*
-
-- Developing computer vision models for crop monitoring using Joint Positional Embedding models
-- Applying MAE (Masked Autoencoder) style pretraining strategies for region-specific pest recognition
-- Evaluating and fine-tuning Open Source Vision Language Models (VLMs) for agricultural applications
-- Leading pest monitoring projects with teams of ML analysts and interns
-- Establishing experimental frameworks for low-resource environments and noisy data challenges
-
-## Education
-
-**Bachelor of Technology, Computer Science Engineering**  
-*Guru Gobind Singh Indraprastha University, Delhi*  
-*July 2019 – June 2023*  
-GPA: 9.6/10
-
-## Professional Experience
-
-### Associate ML Scientist - 1 (July 2023 – January 2025)
-*Wadhwani Institute for Artificial Intelligence, Delhi, India*
-
-- **Automated Model Development**: Created standardized training and evaluation pipelines, reducing development time from 5 hours to under 1 hour
-- **Streamlined Deployment**: Revamped deployment pipeline, accelerating releases from 5 days to under 1 day
-- **Enhanced Model Reliability**: Improved robustness using dataset cartography techniques and increased explainability with Class Activation Maps (CAMs)
-- **Crop Yield Estimation**: Developed and deployed an auditable system with agronomist-validated feature importance
-- **CottonAce Project**: Integrated synthetic image generation, significantly improving model performance for national deployment within the Ministry of Agriculture and Farmers Welfare's National Pest Surveillance System
-
-### ML Intern (February 2023 – July 2023)
-*Wadhwani Institute for Artificial Intelligence, Delhi, India*
-
-- Developed and evaluated novel model distillation techniques for object detection and counting models
-- Optimized model performance and efficiency through various distillation strategies
-- Analyzed and improved cascade models including OOD detectors and object detection models for edge devices
-- Contributed to robust pest infestation analysis pipeline development
-
-### Research Intern (August 2022 – February 2023)
-*Indian Institute of Technology Delhi*
-
-- **MAVI Project**: Worked under Prof. Chetan Arora and Prof. M. Balakrishnan on optimizing object detection models for Mobility Assistance for Visually Impaired
-- **Medical AI**: Worked under Prof. Chetan Arora on explaining model predictions for gall bladder cancer (GBC) detection from ultrasonography images
-- **Research Focus**: Vision Transformers explainability, Weakly supervised object detection, and Multiple instance learning
-
-### Summer Research Fellow (June 2022 – August 2022)
-*Indian Institute of Technology Delhi*
-
-- **MAVI Project**: Optimized deep learning models for scene-text recognition using edge devices
-- **Model Optimization**: Refactored and upgraded existing models to latest firmware versions (OpenVINO 2022, PyCam 2.0)
-- **VisionLAN Integration**: Converted and tested Vision Transformer + Language Model to ONNX and OpenVINO IR formats
+My research focuses on developing innovative solutions for crop monitoring, pest detection, and yield estimation using advanced deep learning techniques. I have extensive experience in computer vision, model optimization, and deploying AI systems in real-world agricultural applications.
 
 ## Research Interests
 
-- Computer Vision and Deep Learning
-- Agricultural AI and Crop Monitoring
-- Model Explainability and Interpretability
-- Edge Computing and Model Optimization
-- Medical Image Analysis
-- Assistive Technologies for Visually Impaired
+- **AI Security & Trustworthy AI**: Developing robust and secure AI systems
+- **Computer Vision**: Advanced deep learning for image analysis
+- **Medical Image AI**: Healthcare applications and diagnostic assistance
+- **AI for Social Good**: Agricultural technology and assistive technologies
+- **Model Explainability**: Interpretable AI for real-world deployment
+
+## Latest Publications
+
+{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+{% for publication in sorted_publications limit:3 %}
+### [{{ publication.title }}]({{ publication.url }})
+*{{ publication.venue }} - {{ publication.date | date: "%B %Y" }}*
+
+{{ publication.excerpt }}
+
+**Authors:** {{ publication.authors }}
+
+[Read more →](/publications/)
+{% unless forloop.last %}
+---
+{% endunless %}
+{% endfor %}
+
+## Latest News & Updates
+
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts limit:3 %}
+### [{{ post.title }}]({{ post.url }})
+*{{ post.date | date: "%B %d, %Y" }}*
+
+{{ post.excerpt }}
+
+[Read more →](/posts/)
+{% unless forloop.last %}
+---
+{% endunless %}
+{% endfor %}
+
+## Quick Links
+
+- **[Experience & Professional Background](/experience/)** - Detailed work history and achievements
+- **[Publications](/publications/)** - Complete research publications
+- **[Projects](/projects/)** - Technical projects and implementations
+- **[Skills & Expertise](/skills/)** - Technical skills and competencies
 
 ## Contact Information
 
-- **Email**: ashishpapanai00@gmail.com
-- **Phone**: +91-8510037887
+- **Email**: ashishpapanai00 [at] gmail [dot] com
 - **Location**: Delhi, India
-- **LinkedIn**: [ashish-papanai](https://linkedin.com/in/ashish-papanai)
-- **GitHub**: [ashishpapanai](https://github.com/ashishpapanai)
+- **LinkedIn**: [ashishpapanai](https://www.linkedin.com/in/ashishpapanai/)
+- **GitHub**: [ashishpapanai](https://github.com/ashishpapanai/)
+- **Google Scholar**: [Ashish Papanai](https://scholar.google.com/citations?user=MpzridIAAAAJ&hl=en)
+- **X (Twitter)**: [@ashishpapanai1](https://x.com/ashishpapanai1)
