@@ -64,7 +64,6 @@ My research focuses on developing innovative solutions for crop monitoring, pest
 - **[Experience & Professional Background](/experience/)** - Detailed work history and achievements
 - **[Publications](/publications/)** - Complete research publications
 - **[Projects](/projects/)** - Technical projects and implementations
-- **[Skills & Expertise](/skills/)** - Technical skills and competencies
 
 ## Contact Information
 

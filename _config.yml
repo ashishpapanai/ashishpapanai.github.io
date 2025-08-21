@@ -22,7 +22,7 @@ repository               : "ashishpapanai/ashishpapanai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Ashish Papanai"
   pronouns         : # example: "she/her"  
   bio              : "Incoming MSc Machine Learning student at the University of Tübingen."
@@ -220,9 +220,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -254,15 +251,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 
 # Sass/SCSS
