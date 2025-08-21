@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Ashish Papanai"
 title_separator          : "-"
 name                     : &name "Ashish Papanai"
@@ -26,7 +26,7 @@ author:
   name             : "Ashish Papanai"
   pronouns         : # example: "she/her"  
   bio              : "MSc Machine Learning"
-  location         : "Tübingen, Germany"
+  location         : 
   employer         : "University of Tübingen"
   uri              : 
   email            : "ashishpapanai00@gmail.com" 
