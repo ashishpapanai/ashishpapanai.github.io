@@ -6,6 +6,11 @@ redirect_from:
   - /awards.html
 ---
 
+## 2025
+- **ELIZA Master's Scholarship**  
+  *University of Tübingen, Germany*  
+  Selected as an ELIZA Scholar to support graduate studies in machine learning at the University of Tübingen.
+
 ## 2023
 - **Finalist, Singapore India Hackathon 2023**  
   *Nanyang Technological University and Ministry of Education India*  

@@ -3,7 +3,7 @@
     "name": "Ashish Papanai",
     "email": "ashish.papanai@uni-tuebingen.de",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://ashishpapanai.github.io",
     "summary": "Machine Learning Scientist with expertise in Computer Vision, Agricultural AI, and Medical Image Analysis. Currently pursuing MSc in Machine Learning at University of Tübingen with ELIZA Master's Scholarship.",
     "location": {
       "address": "",
@@ -16,17 +16,17 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=MpzridIAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0002-0764-2968",
+        "url": "https://orcid.org/0000-0002-0764-2968"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ashishpapanai",
+        "url": "https://github.com/ashishpapanai"
       },
       {
         "network": "LinkedIn",
@@ -40,8 +40,8 @@
       "company": "Wadhwani Institute for Artificial Intelligence",
       "position": "Associate ML Scientist - 2",
       "startDate": "2025-01",
-      "endDate": "Present",
-      "summary": "Leading computer vision projects for agricultural applications",
+      "endDate": "2025-09",
+      "summary": "Led computer vision projects for agricultural applications",
       "highlights": [
         "Developing computer vision models for crop monitoring using Joint Positional Embedding models",
         "Applying MAE (Masked Autoencoder) style pretraining strategies for region-specific pest recognition",
@@ -105,8 +105,8 @@
       "institution": "University of Tübingen",
       "area": "MSc Machine Learning",
       "studyType": "Master of Science",
-      "startDate": "2024-10",
-      "endDate": "2026-09",
+      "startDate": "2025-10",
+      "endDate": "2027-09",
       "gpa": "ELIZA Master's Scholarship Recipient",
       "courses": [
         "Advanced Machine Learning",
@@ -236,39 +236,39 @@
   "references": [],
   "publications": [
     {
-      "name": "Efficient Prediction of Annual Yield Using Machine Learning Techniques",
-      "publisher": "Agricultural Systems",
-      "releaseDate": "2022-06-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "Research on machine learning approaches for agricultural yield prediction."
+      "name": "Maintaining User Trust Through Multistage Uncertainty Aware Inference",
+      "publisher": "Deployable AI Workshop, AAAI 2024 (DAI'24)",
+      "releaseDate": "2024-02-01",
+      "website": "",
+      "summary": "Multistage uncertainty-aware inference to maintain user trust in deployed AI systems. With C. Agrawal and J. White."
     },
     {
-      "name": "Hybrid Image Processing Device for Agricultural Applications",
-      "publisher": "IEEE Transactions on Agricultural Engineering",
-      "releaseDate": "2022-12-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "Development of hybrid image processing solutions for agricultural monitoring."
-    },
-    {
-      "name": "Vihanced: Video Super-Resolution for Agricultural Monitoring",
-      "publisher": "Computer Vision and Pattern Recognition",
-      "releaseDate": "2023-06-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "Advanced video super-resolution techniques for agricultural surveillance systems."
-    },
-    {
-      "name": "Gall Bladder Cancer Detection Using Deep Learning",
-      "publisher": "Medical Image Analysis",
+      "name": "Gall Bladder Cancer Detection from US Images with Only Image Level Labels",
+      "publisher": "MICCAI 2023",
       "releaseDate": "2023-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "Deep learning approaches for early detection of gall bladder cancer from ultrasound images."
+      "website": "",
+      "summary": "Weakly supervised detection of gall bladder cancer from ultrasound images using only image-level labels. With S. Basu, M. Gupta, P. Gupta and C. Arora."
     },
     {
-      "name": "Maintaining User Trust in AI Systems",
-      "publisher": "AI Ethics and Society",
-      "releaseDate": "2024-01-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "Research on building and maintaining user trust in AI-powered agricultural systems."
+      "name": "VIhanceD: Efficient Video Super Resolution for Edge Devices",
+      "publisher": "IEEE Delhi Section Flagship Conference (DELCON) 2023",
+      "releaseDate": "2023-02-01",
+      "website": "",
+      "summary": "Efficient video super-resolution designed for resource-constrained edge devices."
+    },
+    {
+      "name": "Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning",
+      "publisher": "4th Intl. Conference on Machine Intelligence and Signal Processing (MISP 2022)",
+      "releaseDate": "2022-03-01",
+      "website": "",
+      "summary": "Hybrid LSTM and Conv1D+LSTM deep learning models for predicting annual stock yield."
+    },
+    {
+      "name": "Hybrid Image Processing Device as Wearable Aide for Visually Impaired",
+      "publisher": "8th Intl. Conference on Advanced Computing and Communication Systems (ICACCS) 2022",
+      "releaseDate": "2022-03-01",
+      "website": "https://doi.org/10.1109/ICACCS54159.2022.9785118",
+      "summary": "A wearable hybrid image-processing device for object detection and navigation assistance for the visually impaired. With H. Kaushik."
     }
   ],
   "presentations": [

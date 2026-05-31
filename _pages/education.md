@@ -8,7 +8,7 @@ author_profile: true
 
 ## Master of Science in Machine Learning
 **University of Tübingen, Germany**  
-*Expected: 2024 - 2026*  
+*2025 - 2027*  
 - **Program**: MSc Machine Learning
 - **Scholarship**: ELIZA Master's Scholarship Recipient
 - **Focus Areas**: AI Security, Trustworthy AI, Computer Vision, Medical Image AI
@@ -25,7 +25,7 @@ author_profile: true
 ## Academic Achievements
 
 ### Scholarships & Recognition
-- **ELIZA Master's Scholarship** - University of Tübingen (2024)
+- **ELIZA Master's Scholarship** - University of Tübingen (2025)
 - **Finalist** - Singapore India Hackathon 2023 (Nanyang Technological University and Ministry of Education India)
 - **Winner** - UNESCO India Africa Hackathon 2022 (Ministry of Education of India)
 - **Winner** - Smart India Hackathon 2022 Software Edition (Ministry of Education of India)

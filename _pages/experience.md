@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Current Role
 
-**Incoming MSc Machine Learning Student** (Starting Winter 2025)  
+**MSc Machine Learning Student** (2025 - 2027)  
 *University of Tübingen, Germany*  
 *ELIZA Master's Scholarship Recipient*
 
@@ -16,7 +16,7 @@ author_profile: true
 
 ## Previous Experience
 
-### Associate ML Scientist - 2 (January 2025 - September 2025)
+### Associate ML Scientist - 2 (January 2025 – September 2025)
 *Wadhwani Institute for Artificial Intelligence, Delhi, India*
 
 - **Advanced Computer Vision**: Developing computer vision models for crop monitoring using Joint Positional Embedding models

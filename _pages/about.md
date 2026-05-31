@@ -9,13 +9,13 @@ redirect_from:
 
 <!-- # Ashish Papanai
 
-**Incoming MSc Machine Learning Student**  
+**MSc Machine Learning Student**  
 *University of Tübingen*  
 *ELIZA Master's Scholarship Recipient* -->
 
 <!-- ## Overview -->
 
-I am an incoming MSc Machine Learning student at the University of Tübingen and an ELIZA Master’s Scholarship recipient. My background as an Associate ML Scientist - 2 at the Wadhwani Institute for Artificial Intelligence centered on computer vision and agricultural AI. My research focuses on developing innovative deep learning solutions for crop monitoring, pest detection, and yield estimation, applying my experience in model optimization and real-world AI deployment.
+I am an MSc Machine Learning student at the University of Tübingen and an ELIZA Master’s Scholarship recipient. Previously, I was an Associate ML Scientist - 2 at the Wadhwani Institute for Artificial Intelligence, where my work centered on computer vision and agricultural AI. My research focuses on developing innovative deep learning solutions for crop monitoring, pest detection, and yield estimation, applying my experience in model optimization and real-world AI deployment.
 
 My research interests lie in developing human-centric, reliable, and ethical AI for social impact. I translate complex data into practical tools, demonstrating a strong dedication to impactful AI across diverse domains.
 
@@ -23,10 +23,15 @@ My hands-on experience in machine learning, particularly computer vision, includ
 
 My core research interests are advancing explainable AI (XAI) and efficient edge deployment models. I aim to bridge theoretical AI with practical implementation, enhancing interpretability and performance in real-world applications within medicine, life sciences, and agricultural technologies.
 
+> **Currently**, I am working with [Prof. Hilde Kuehne](https://hildekuehne.github.io/) and [Edson Araujo](https://openreview.net/profile?id=~Edson_Araujo1) at the **CVML Lab, University of Tübingen**, on **spatial audio, multimodal systems, spatial audio-visual question answering (Spatial-AVQA), and world models** — building AI that can perceive and reason jointly across vision, audio, and 3D space.
+
 ## Research Interests
 
-- **AI Security & Trustworthy AI**: Developing robust and secure AI systems
+- **Spatial Audio & Multimodal Systems**: Joint reasoning across vision, audio, and space
+- **Spatial-AVQA**: Spatial audio-visual question answering
+- **World Models**: Learning predictive models of the environment
 - **Computer Vision**: Advanced deep learning for image analysis
+- **AI Security & Trustworthy AI**: Robust, reliable, and uncertainty-aware systems
 - **Medical Image AI**: Healthcare applications and diagnostic assistance
 - **AI for Social Good**: Agricultural technology and assistive technologies
 - **Model Explainability**: Interpretable AI for real-world deployment
