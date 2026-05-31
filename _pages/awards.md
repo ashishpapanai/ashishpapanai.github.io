@@ -27,7 +27,7 @@ redirect_from:
 
 - **Selected as UG Summer Research Fellow @ IIT Delhi**  
   *Indian Institute of Technology Delhi*  
-  Awarded prestigious summer research fellowship to work on cutting-edge research projects at IIT Delhi.
+  Awarded a prestigious summer research fellowship to work on cutting-edge research projects at IIT Delhi.
 
 ## Research Recognition
 - **Published Research**: Multiple publications in top-tier conferences including MICCAI, AAAI, and IEEE conferences

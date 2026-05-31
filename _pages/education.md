@@ -15,11 +15,11 @@ author_profile: true
 - **Completed (Winter 2025/26)**: Deep Learning · Mathematics for Machine Learning · Data Literacy · Science of ML Benchmarks · AI for Brain Health · Massively Parallel Processing
 - **Research**: Spatial audio, multimodal systems, Spatial-AVQA, and world models (with the CVML Lab)
 
-## Bachelor of Technology in Computer Science Engineering
+## Bachelor of Technology in Computer Science and Engineering
 **Guru Gobind Singh Indraprastha University, Delhi, India**  
 *July 2019 – June 2023*  
 - **GPA**: 9.6/10
-- **Specialization**: Computer Science Engineering
+- **Specialization**: Computer Science and Engineering
 - **Key Projects**: Agricultural AI, Medical Image Analysis, Computer Vision
 - **Research Focus**: Deep Learning, Model Optimization, Edge Computing
 
@@ -34,13 +34,13 @@ author_profile: true
 
 ### Research Experience
 - **Summer Research Fellow** - IIT Delhi (June 2022 - August 2022)
-  - Worked on MAVI project for visually impaired assistance
+  - Worked on the MAVI project to assist the visually impaired
   - Optimized deep learning models for edge devices
-  - Focus on scene-text recognition and model optimization
+  - Focused on scene-text recognition and model optimization
 
 - **Research Intern** - IIT Delhi (August 2022 - February 2023)
   - Medical AI: Gall bladder cancer detection from ultrasonography images
-  - Vision Transformers explainability and weakly supervised object detection
+  - Vision Transformer explainability and weakly supervised object detection
   - Multiple instance learning for medical applications
 
 ## Technical Skills

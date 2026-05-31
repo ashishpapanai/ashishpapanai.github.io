@@ -43,10 +43,10 @@
       "endDate": "2025-09",
       "summary": "Led computer vision projects for agricultural applications",
       "highlights": [
-        "Developing computer vision models for crop monitoring using Joint Positional Embedding models",
-        "Applying MAE (Masked Autoencoder) style pretraining strategies for region-specific pest recognition",
-        "Evaluating and fine-tuning Open Source Vision Language Models (VLMs) for agricultural applications",
-        "Leading pest monitoring projects with teams of ML analysts and interns"
+        "Developed computer vision models for crop monitoring using Joint Positional Embedding models",
+        "Applied MAE (Masked Autoencoder)-style pretraining strategies for region-specific pest recognition",
+        "Evaluated and fine-tuned open-source Vision Language Models (VLMs) for agricultural applications",
+        "Led pest monitoring projects with teams of ML analysts and interns"
       ]
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "institution": "Guru Gobind Singh Indraprastha University",
-      "area": "B.Tech Computer Science Engineering",
+      "area": "B.Tech Computer Science and Engineering",
       "studyType": "Bachelor of Technology",
       "startDate": "2019-08",
       "endDate": "2023-05",

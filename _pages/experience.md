@@ -19,11 +19,11 @@ author_profile: true
 ### Associate ML Scientist - 2 (January 2025 – September 2025)
 *Wadhwani Institute for Artificial Intelligence, Delhi, India*
 
-- **Advanced Computer Vision**: Developing computer vision models for crop monitoring using Joint Positional Embedding models
-- **MAE Pretraining**: Applying Masked Autoencoder style pretraining strategies for region-specific pest recognition
-- **Vision Language Models**: Evaluating and fine-tuning Open Source VLMs for agricultural applications
-- **Project Leadership**: Leading pest monitoring projects with teams of ML analysts and interns
-- **Experimental Frameworks**: Establishing frameworks for low-resource environments and noisy data challenges
+- **Advanced Computer Vision**: Developed computer vision models for crop monitoring using Joint Positional Embedding models
+- **MAE Pretraining**: Applied Masked Autoencoder-style pretraining strategies for region-specific pest recognition
+- **Vision Language Models**: Evaluated and fine-tuned open-source VLMs for agricultural applications
+- **Project Leadership**: Led pest monitoring projects with teams of ML analysts and interns
+- **Experimental Frameworks**: Established frameworks for low-resource environments and noisy-data challenges
 
 ### Associate ML Scientist - 1 (July 2023 – January 2025)
 *Wadhwani Institute for Artificial Intelligence, Delhi, India*
@@ -47,7 +47,7 @@ author_profile: true
 
 - **MAVI Project**: Worked under Prof. Chetan Arora and Prof. M. Balakrishnan on optimizing object detection models for Mobility Assistance for Visually Impaired
 - **Medical AI**: Worked under Prof. Chetan Arora on explaining model predictions for gall bladder cancer (GBC) detection from ultrasonography images
-- **Research Focus**: Vision Transformers explainability, Weakly supervised object detection, and Multiple instance learning
+- **Research Focus**: Vision Transformer explainability, weakly supervised object detection, and multiple instance learning
 
 ### Summer Research Fellow (June 2022 – August 2022)
 *Indian Institute of Technology Delhi*
@@ -58,15 +58,15 @@ author_profile: true
 
 ## Education
 
-### Bachelor of Technology, Computer Science Engineering
+### Bachelor of Technology, Computer Science and Engineering
 *Guru Gobind Singh Indraprastha University, Delhi*  
 *July 2019 – June 2023*  
 **GPA: 9.6/10**
 
 ## Key Achievements
 
-- **ELIZA Master's Scholarship**: Selected for prestigious scholarship at University of Tübingen
-- **National Impact**: Contributed to Ministry of Agriculture's National Pest Surveillance System
+- **ELIZA Master's Scholarship**: Selected for a prestigious scholarship at the University of Tübingen
+- **National Impact**: Contributed to the Ministry of Agriculture's National Pest Surveillance System
 - **Research Publications**: Multiple publications in computer vision and AI applications
 - **Model Optimization**: Reduced development time by 80% and deployment time by 80%
 - **Agricultural AI**: Deployed AI systems used by thousands of farmers across India
