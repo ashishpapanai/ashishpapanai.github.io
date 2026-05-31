@@ -11,8 +11,9 @@ author_profile: true
 *2025 - 2027*  
 - **Program**: MSc Machine Learning
 - **Scholarship**: ELIZA Master's Scholarship Recipient
-- **Focus Areas**: AI Security, Trustworthy AI, Computer Vision, Medical Image AI
-- **Research Interests**: Developing robust and secure AI systems for real-world applications
+- **Current Courses (Summer 2026)**: Probabilistic Machine Learning · Statistical Machine Learning · Video Analytics · AI and Business · Advancements in Multimodal Systems
+- **Completed (Winter 2025/26)**: Deep Learning · Mathematics for Machine Learning · Data Literacy · Science of ML Benchmarks · AI for Brain Health · Massively Parallel Processing
+- **Research**: Spatial audio, multimodal systems, Spatial-AVQA, and world models (with the CVML Lab)
 
 ## Bachelor of Technology in Computer Science Engineering
 **Guru Gobind Singh Indraprastha University, Delhi, India**  
@@ -61,7 +62,7 @@ author_profile: true
 ### Specialized Areas
 - **Agricultural AI**: Crop monitoring, pest detection, yield estimation
 - **Medical Image Analysis**: Diagnostic assistance, explainable AI
-- **AI Security**: Trustworthy AI, robust systems, uncertainty quantification
+- **Uncertainty-Aware ML**: Robust systems and uncertainty quantification
 - **Edge Computing**: Model optimization for resource-constrained devices
 
 ## Academic Links

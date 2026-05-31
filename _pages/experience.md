@@ -11,8 +11,8 @@ author_profile: true
 *ELIZA Master's Scholarship Recipient*
 
 - Selected for the prestigious ELIZA Master's Scholarship program
-- Focus on advanced machine learning, AI security, and trustworthy AI
-- Research interests: Computer Vision, Medical Image AI, AI for Social Good
+- Research with the CVML Lab on spatial audio, multimodal systems, Spatial-AVQA, and world models
+- Research interests: Multimodal Systems, Spatial Audio, Computer Vision, World Models
 
 ## Previous Experience
 
@@ -83,15 +83,15 @@ author_profile: true
 - **Agricultural AI**: Crop monitoring, pest detection, yield estimation
 - **Medical AI**: Diagnostic assistance, image analysis, explainable AI
 - **Assistive Technologies**: Computer vision for visually impaired
-- **AI Security**: Trustworthy AI, robust systems, uncertainty quantification
+- **Uncertainty-Aware ML**: Robust systems and uncertainty quantification
 
 ## Research Focus Areas
 
-- **AI Security & Trustworthy AI**: Developing robust and secure AI systems
+- **Spatial Audio & Multimodal Systems**: Joint reasoning across vision, audio, and space
+- **Spatial-AVQA & World Models**: Spatial audio-visual question answering and predictive world models
 - **Computer Vision**: Advanced deep learning for image analysis
 - **Medical Image AI**: Healthcare applications and diagnostic assistance
 - **AI for Social Good**: Agricultural technology and assistive technologies
-- **Model Explainability**: Interpretable AI for real-world deployment
 
 ## Academic Links
 

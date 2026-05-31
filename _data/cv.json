@@ -109,14 +109,17 @@
       "endDate": "2027-09",
       "gpa": "ELIZA Master's Scholarship Recipient",
       "courses": [
-        "Advanced Machine Learning",
         "Deep Learning",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Statistical Learning Theory",
-        "Optimization Methods",
-        "Bayesian Methods",
-        "Reinforcement Learning"
+        "Mathematics for Machine Learning",
+        "Probabilistic Machine Learning",
+        "Statistical Machine Learning",
+        "Video Analytics",
+        "Advancements in Multimodal Systems",
+        "AI and Business",
+        "Data Literacy",
+        "Science of ML Benchmarks",
+        "Massively Parallel Processing",
+        "AI for Brain Health"
       ]
     },
     {
