@@ -1,101 +1,35 @@
 ---
-layout: single
-title: "Experience & Professional Background"
+layout: page
+title: "Experience"
 permalink: /experience/
-author_profile: true
 ---
-## Current Role
 
-**MSc Machine Learning Student** (2025 - 2027)  
-*University of Tübingen, Germany*  
-*ELIZA Master's Scholarship Recipient*
+<ul class="timeline">
+  <li>
+    <div class="head"><span class="r">Associate ML Scientist II</span><span class="when">Jan 2025 – Sep 2025</span></div>
+    <div class="org">Wadhwani Institute for Artificial Intelligence, Delhi</div>
+    <div class="desc">Computer-vision models for crop monitoring (joint positional embeddings, MAE-style pretraining); fine-tuned open-source VLMs for agriculture; led pest-monitoring projects and built experimental frameworks for low-resource, noisy-data settings.</div>
+  </li>
+  <li>
+    <div class="head"><span class="r">Associate ML Scientist I</span><span class="when">Jul 2023 – Jan 2025</span></div>
+    <div class="org">Wadhwani Institute for Artificial Intelligence, Delhi</div>
+    <div class="desc">Built standardized training/eval and deployment pipelines (~80% faster); improved robustness with dataset cartography and CAM explainability; developed an auditable crop-yield estimation system; shipped CottonAce with synthetic image generation for national deployment in the Ministry of Agriculture's National Pest Surveillance System.</div>
+  </li>
+  <li>
+    <div class="head"><span class="r">ML Intern</span><span class="when">Feb 2023 – Jul 2023</span></div>
+    <div class="org">Wadhwani Institute for Artificial Intelligence, Delhi</div>
+    <div class="desc">Developed and evaluated novel model-distillation techniques for object detection and counting; improved cascade models (including OOD detectors) for edge devices; contributed to the pest-infestation analysis pipeline.</div>
+  </li>
+  <li>
+    <div class="head"><span class="r">Research Intern</span><span class="when">Aug 2022 – Feb 2023</span></div>
+    <div class="org">IIT Delhi — Prof. Chetan Arora, Prof. M. Balakrishnan</div>
+    <div class="desc">Medical AI for gall bladder cancer detection from ultrasonography; Vision Transformer explainability, weakly supervised object detection, and multiple-instance learning; model optimization for the MAVI assistive-vision project.</div>
+  </li>
+  <li>
+    <div class="head"><span class="r">Summer Research Fellow</span><span class="when">Jun 2022 – Aug 2022</span></div>
+    <div class="org">IIT Delhi</div>
+    <div class="desc">Optimized deep-learning models for scene-text recognition on edge devices; upgraded models to OpenVINO 2022 / PyCam 2.0; converted and tested VisionLAN (ViT + language model) to ONNX and OpenVINO IR.</div>
+  </li>
+</ul>
 
-- Selected for the prestigious ELIZA Master's Scholarship program
-- Research with the CVML Lab on spatial audio, multimodal systems, Spatial-AVQA, and world models
-- Research interests: Multimodal Systems, Spatial Audio, Computer Vision, World Models
-
-## Previous Experience
-
-### Associate ML Scientist - 2 (January 2025 – September 2025)
-*Wadhwani Institute for Artificial Intelligence, Delhi, India*
-
-- **Advanced Computer Vision**: Developed computer vision models for crop monitoring using Joint Positional Embedding models
-- **MAE Pretraining**: Applied Masked Autoencoder-style pretraining strategies for region-specific pest recognition
-- **Vision Language Models**: Evaluated and fine-tuned open-source VLMs for agricultural applications
-- **Project Leadership**: Led pest monitoring projects with teams of ML analysts and interns
-- **Experimental Frameworks**: Established frameworks for low-resource environments and noisy-data challenges
-
-### Associate ML Scientist - 1 (July 2023 – January 2025)
-*Wadhwani Institute for Artificial Intelligence, Delhi, India*
-
-- **Automated Model Development**: Created standardized training and evaluation pipelines, reducing development time from 5 hours to under 1 hour
-- **Streamlined Deployment**: Revamped deployment pipeline, accelerating releases from 5 days to under 1 day
-- **Enhanced Model Reliability**: Improved robustness using dataset cartography techniques and increased explainability with Class Activation Maps (CAMs)
-- **Crop Yield Estimation**: Developed and deployed an auditable system with agronomist-validated feature importance
-- **CottonAce Project**: Integrated synthetic image generation, significantly improving model performance for national deployment within the Ministry of Agriculture and Farmers Welfare's National Pest Surveillance System
-
-### ML Intern (February 2023 – July 2023)
-*Wadhwani Institute for Artificial Intelligence, Delhi, India*
-
-- **Model Distillation**: Developed and evaluated novel model distillation techniques for object detection and counting models
-- **Performance Optimization**: Optimized model performance and efficiency through various distillation strategies
-- **Cascade Models**: Analyzed and improved cascade models including OOD detectors and object detection models for edge devices
-- **Pipeline Development**: Contributed to robust pest infestation analysis pipeline development
-
-### Research Intern (August 2022 – February 2023)
-*Indian Institute of Technology Delhi*
-
-- **MAVI Project**: Worked under Prof. Chetan Arora and Prof. M. Balakrishnan on optimizing object detection models for Mobility Assistance for Visually Impaired
-- **Medical AI**: Worked under Prof. Chetan Arora on explaining model predictions for gall bladder cancer (GBC) detection from ultrasonography images
-- **Research Focus**: Vision Transformer explainability, weakly supervised object detection, and multiple instance learning
-
-### Summer Research Fellow (June 2022 – August 2022)
-*Indian Institute of Technology Delhi*
-
-- **MAVI Project**: Optimized deep learning models for scene-text recognition using edge devices
-- **Model Optimization**: Refactored and upgraded existing models to latest firmware versions (OpenVINO 2022, PyCam 2.0)
-- **VisionLAN Integration**: Converted and tested Vision Transformer + Language Model to ONNX and OpenVINO IR formats
-
-## Education
-
-### Bachelor of Technology, Computer Science and Engineering
-*Guru Gobind Singh Indraprastha University, Delhi*  
-*July 2019 – June 2023*  
-**GPA: 9.6/10**
-
-## Key Achievements
-
-- **ELIZA Master's Scholarship**: Selected for a prestigious scholarship at the University of Tübingen
-- **National Impact**: Contributed to the Ministry of Agriculture's National Pest Surveillance System
-- **Research Publications**: Multiple publications in computer vision and AI applications
-- **Model Optimization**: Reduced development time by 80% and deployment time by 80%
-- **Agricultural AI**: Deployed AI systems used by thousands of farmers across India
-
-## Technical Expertise
-
-### Core Skills
-- **Machine Learning**: Deep Learning, Computer Vision, Model Optimization
-- **Programming**: Python, PyTorch, TensorFlow, OpenCV, ONNX
-- **Deployment**: Docker, Kubernetes, Edge Computing, OpenVINO
-- **Research**: Model Explainability, Uncertainty Quantification, Robust AI
-
-### Domain Expertise
-- **Agricultural AI**: Crop monitoring, pest detection, yield estimation
-- **Medical AI**: Diagnostic assistance, image analysis, explainable AI
-- **Assistive Technologies**: Computer vision for visually impaired
-- **Uncertainty-Aware ML**: Robust systems and uncertainty quantification
-
-## Research Focus Areas
-
-- **Spatial Audio & Multimodal Systems**: Joint reasoning across vision, audio, and space
-- **Spatial-AVQA & World Models**: Spatial audio-visual question answering and predictive world models
-- **Computer Vision**: Advanced deep learning for image analysis
-- **Medical Image AI**: Healthcare applications and diagnostic assistance
-- **AI for Social Good**: Agricultural technology and assistive technologies
-
-## Academic Links
-
-- **[University of Tübingen MSc Machine Learning Program](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/)**
-- **[Guru Gobind Singh Indraprastha University](https://www.ipu.ac.in/)**
-- **[IIT Delhi](https://home.iitd.ac.in/)**
-- **[Wadhwani Institute for Artificial Intelligence](https://www.wadhwaniai.org/)**
+For education, awards, and technical skills, see my [CV](/cv/).

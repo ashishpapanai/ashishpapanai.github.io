@@ -1,0 +1,35 @@
+---
+---
+{% assign base_path = site.url | append: site.baseurl %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+  <script>(function(){try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} &middot; {{ site.name }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html }}">
+  <meta name="author" content="{{ site.name }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="icon" href="{{ base_path }}/images/favicon.ico" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg">
+  <link rel="apple-touch-icon" href="{{ base_path }}/images/apple-touch-icon-180x180.png">
+  <link rel="stylesheet" href="{{ base_path }}/assets/css/minimal.css">
+</head>
+<body>
+  {% include nav.html %}
+
+  <main class="wrap page" id="top">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ content }}
+  </main>
+
+  <footer class="site">
+    <div class="wrap">
+      <p><a href="{{ '/' | relative_url }}">&larr; Back to home</a></p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name }}</p>
+      <p class="footer-updated">Last updated {{ site.time | date: '%B %-d, %Y' }}</p>
+    </div>
+  </footer>
+</body>
+</html>

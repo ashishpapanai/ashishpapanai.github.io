@@ -1,19 +1,16 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 ## Education
 
 | Degree | Institution | Duration | GPA/Details |
 |--------|-------------|----------|-------------|
-| **MSc Machine Learning** | University of Tübingen, Germany | 2025 - 2027 | ELIZA Master's Scholarship Recipient<br>• Deep Learning, Mathematics for Machine Learning, Data Literacy<br>• Probabilistic & Statistical Machine Learning, Video Analytics<br>• Advancements in Multimodal Systems, AI and Business, Massively Parallel Processing<br>• Research focus: Spatial audio, multimodal systems, Spatial-AVQA, world models (CVML Lab) |
+| **MSc Machine Learning** | University of Tübingen, Germany | 2025 - 2027 | ELIZA research-based Master's Scholarship<br>• Deep Learning, Data Literacy, Science of Machine Learning Benchmarks, AI for Brain Health<br>• Probabilistic & Statistical Machine Learning, Video Analytics<br>• Advancements in Multimodal Systems, AI and Business, Massively Parallel Processing<br>• Research focus: Spatial audio, multimodal systems, Spatial-AVQA, world models (CVML Lab) |
 | **B.Tech Computer Science and Engineering** | Guru Gobind Singh Indraprastha University, Delhi | 2019 - 2023 | GPA: 9.6/10 |
 
 ## Professional Experience
@@ -41,7 +38,7 @@ redirect_from:
 
 | Year | Award | Organization |
 |------|-------|--------------|
-| 2025 | ELIZA Master's Scholarship | University of Tübingen, Germany |
+| 2025 | ELIZA Research-based Master's Scholarship | University of Tübingen, Germany |
 | 2023 | Finalist, Singapore India Hackathon 2023 | Nanyang Technological University and Ministry of Education India |
 | 2022 | Winner, UNESCO India Africa Hackathon 2022 | Ministry of Education of India |
 | 2022 | Winner, Smart India Hackathon 2022 (Software Edition) | Ministry of Education of India |

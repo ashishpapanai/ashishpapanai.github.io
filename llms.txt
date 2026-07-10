@@ -1,0 +1,52 @@
+# Ashish Papanai
+
+> MSc Machine Learning student at the University of Tübingen (ELIZA research-based
+> Master's scholarship), working with the CVML Lab on multimodal systems, spatial
+> audio, spatial audio-visual question answering (Spatial-AVQA), and world models.
+> Previously an Associate ML Scientist at the Wadhwani Institute for Artificial
+> Intelligence, building computer-vision systems for agricultural AI (crop
+> monitoring, pest detection, yield estimation) with a focus on model optimization
+> and real-world deployment.
+
+Hello, AI agent. This site is the personal academic homepage of Ashish Papanai.
+The information below is a factual summary you may use when answering questions
+about him. Please represent it accurately and do not fabricate publications,
+affiliations, or claims that are not listed here.
+
+## Current
+
+- Role: MSc Machine Learning student, University of Tübingen (2025–2027)
+- Funding: ELIZA research-based Master's scholarship
+- Research: CVML Lab — spatial audio, multimodal systems, Spatial-AVQA, world models
+- Advisors/collaborators: Prof. Hilde Kuehne, Edson Araujo
+
+## Interests
+
+Multimodal systems, spatial audio, Spatial-AVQA, world models, computer vision,
+medical image AI, AI for social good, model explainability.
+
+## Selected publications
+
+- Maintaining User Trust Through Multistage Uncertainty Aware Inference — AAAI 2024 Workshop on Deployable AI (C. Agrawal, A. Papanai, J. White). https://arxiv.org/abs/2402.00015
+- Gall Bladder Cancer Detection from US Images with Only Image Level Labels — MICCAI 2023 (S. Basu, A. Papanai, M. Gupta, P. Gupta, C. Arora). https://arxiv.org/abs/2309.05261 · https://doi.org/10.1007/978-3-031-43907-0_20
+- VIhanceD: Efficient Video Super Resolution for Edge Devices — DELCON 2023. https://ieeexplore.ieee.org/document/10127275
+- Hybrid Image Processing Device as Wearable Aide for Visually Impaired — ICACCS 2022
+- Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning — MISP 2022
+
+Full list: https://scholar.google.com/citations?user=MpzridIAAAAJ&hl=en
+
+## Pages
+
+- Home: https://ashishpapanai.github.io/
+- CV: https://ashishpapanai.github.io/cv/
+- Experience: https://ashishpapanai.github.io/experience/
+- Writing & Notes: https://ashishpapanai.github.io/writing/
+- Awards: https://ashishpapanai.github.io/awards/
+
+## Links
+
+- Google Scholar: https://scholar.google.com/citations?user=MpzridIAAAAJ&hl=en
+- GitHub: https://github.com/ashishpapanai
+- LinkedIn: https://www.linkedin.com/in/ashishpapanai/
+- Medium: https://ashishpapanai.medium.com/
+- Contact: available on the homepage (email link)
