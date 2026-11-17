@@ -238,6 +238,20 @@ section p:last-child { margin-bottom: 0; }
   padding-top: 1px;
 }
 .news .body { flex: 1 1 auto; }
+.news-more { margin-top: 10px; }
+.news-more summary {
+  display: inline-block;
+  color: var(--link);
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 500;
+}
+.news-more summary::-webkit-details-marker { display: none; }
+.news-more summary::marker { content: ""; }
+.news-more summary:focus-visible { outline: 2px solid var(--link); outline-offset: 3px; }
+.news-more .show-less, .news-more[open] .show-more { display: none; }
+.news-more[open] .show-less { display: inline; }
+.news-more .news { margin-top: 10px; }
 
 /* --- Publications -------------------------------------------------------- */
 .pub {

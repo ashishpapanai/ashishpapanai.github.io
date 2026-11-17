@@ -50,10 +50,15 @@ redirect_from:
     <li><span class="date">Jul 2026</span><span class="body">Selected for the <b>Eastern European Machine Learning Summer School (<a href="https://www.eeml.eu/">EEML 2026</a>)</b> in Cetinje, Montenegro.</span></li>
     <li><span class="date">Mar 2026</span><span class="body">Attended the <b><a href="https://ellis.eu/events/ellis-winter-school-at-unit-amsterdam-2026">ELLIS Winter School on Foundation Models (FoMo 2026)</a></b> at ELLIS Unit Amsterdam.</span></li>
     <li><span class="date">Oct 2025</span><span class="body">Started the MSc in Machine Learning at the University of Tübingen as an <b>ELIZA Scholar</b>; joined the CVML Lab on spatial audio-visual reasoning.</span></li>
-    <li><span class="date">Sep 2025</span><span class="body">Wrapped up two-and-a-half years at Wadhwani AI, where I helped ship the CottonAce crop-monitoring system nationally.</span></li>
-    <li><span class="date">Jan 2024</span><span class="body">Paper on multistage uncertainty-aware inference accepted at the <b>AAAI 2024 Workshop on Deployable AI</b>.</span></li>
-    <li><span class="date">Oct 2023</span><span class="body">Work on gall bladder cancer detection from ultrasound with only image-level labels appeared at <b>MICCAI 2023</b>.</span></li>
   </ul>
+  <details class="news-more">
+    <summary><span class="show-more">See more news</span><span class="show-less">Show less news</span></summary>
+    <ul class="news">
+      <li><span class="date">Sep 2025</span><span class="body">Wrapped up two-and-a-half years at Wadhwani AI, where I helped ship the CottonAce crop-monitoring system nationally.</span></li>
+      <li><span class="date">Jan 2024</span><span class="body">Paper on multistage uncertainty-aware inference accepted at the <b>AAAI 2024 Workshop on Deployable AI</b>.</span></li>
+      <li><span class="date">Oct 2023</span><span class="body">Work on gall bladder cancer detection from ultrasound with only image-level labels appeared at <b>MICCAI 2023</b>.</span></li>
+    </ul>
+  </details>
 </section>
 
 <section id="publications">
