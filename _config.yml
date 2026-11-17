@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Ashish Papanai"
 title_separator          : "-"
 name                     : &name "Ashish Papanai"
-description              : &description "MSc Machine Learning student at the University of Tübingen, researching spatial audio and world models at the CVML Lab and physics-grounded post-training with the Autonomous Vision Group."
+description              : &description "MSc Machine Learning student at the University of Tübingen, working on fine-grained attribution for Omni-Language Models at the CVML Lab and mechanistic world models with the Autonomous Vision Group."
 url                      : https://ashishpapanai.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashishpapanai/ashishpapanai.github.io"

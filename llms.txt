@@ -1,8 +1,8 @@
 # Ashish Papanai
 
 > MSc Machine Learning student at the University of Tübingen (ELIZA research-based
-> Master's scholarship), working with the CVML Lab on multimodal systems, spatial
-> audio, spatial audio-visual question answering (Spatial-AVQA), and world models.
+> Master's scholarship), working with Prof. Hilde Kuehne at the CVML Lab on
+> fine-grained attribution for Omni-Language Models.
 > Also part of the Autonomous Vision Group, working with Gege Gao on
 > physics-grounded post-training and mechanistic world models.
 > Previously an Associate ML Scientist at the Wadhwani Institute for Artificial
@@ -19,18 +19,21 @@ affiliations, or claims that are not listed here.
 
 - Role: MSc Machine Learning student, University of Tübingen (2025–2027)
 - Funding: ELIZA research-based Master's scholarship
-- Research: CVML Lab — spatial audio, multimodal systems, Spatial-AVQA, world models
-- Advisors/collaborators: Prof. Hilde Kuehne, Edson Araujo
+- Research: CVML Lab — fine-grained attribution for Omni-Language Models
+- Current collaborator at CVML Lab: Prof. Hilde Kuehne
 - Research project student: Autonomous Vision Group, University of Tübingen (Oct 2026–present) — physics-grounded post-training and mechanistic world models
 - Collaborator: Gege Gao (https://gegeheseri.com/)
+- Attended Swiss AI Safety Days 2026 at ETH Zurich (Nov 2026): https://swissaisafetydays.ch/programme-2026
 
 ## Interests
 
-Multimodal systems, spatial audio, Spatial-AVQA, world models,
+Multimodal systems, fine-grained attribution, Omni-Language Models, world models,
 physics-grounded post-training, mechanistic world models, computer vision,
 medical image AI, AI for social good, model explainability.
 
-## Selected publications
+## Selected works
+
+- SuperSAVVY: Training Dataset for Audio-Visual Question Answering Using Geometrically Labelled Egocentric Videos — work with Edson Araujo and Prof. Hilde Kuehne; to be added.
 
 - Maintaining User Trust Through Multistage Uncertainty Aware Inference — AAAI 2024 Workshop on Deployable AI (C. Agrawal, A. Papanai, J. White). https://arxiv.org/abs/2402.00015
 - Gall Bladder Cancer Detection from US Images with Only Image Level Labels — MICCAI 2023 (S. Basu, A. Papanai, M. Gupta, P. Gupta, C. Arora). https://arxiv.org/abs/2309.05261 · https://doi.org/10.1007/978-3-031-43907-0_20

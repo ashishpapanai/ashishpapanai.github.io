@@ -38,13 +38,14 @@ redirect_from:
 
 <section id="bio">
   <p>I am a Master's student in Machine Learning at the <b>University of Tübingen</b>, supported by the <b>ELIZA research-based Master's Scholarship</b>. Previously, I was an Associate ML Scientist&nbsp;II at the <a href="https://www.wadhwaniai.org/">Wadhwani Institute for Artificial Intelligence</a>, where I built computer-vision systems for agricultural AI — crop monitoring, pest detection, and yield estimation — with a focus on model optimization and real-world deployment.</p>
-  <p>I currently work with <a href="https://hildekuehne.github.io/">Prof. Hilde Kuehne</a> and <a href="https://edsonroteia.github.io/">Edson Araujo</a> at the CVML Lab on <b>spatial audio, multimodal systems, spatial audio-visual question answering (Spatial-AVQA), and world models</b> — building AI that perceives and reasons jointly across vision, audio, and 3D space. Broadly, I care about human-centric, reliable, and ethical AI for social impact, and about bridging theoretical ML with deployable systems.</p>
+  <p>I currently work with <a href="https://hildekuehne.github.io/">Prof. Hilde Kuehne</a> at the CVML Lab on <b>fine-grained attribution for Omni-Language Models</b>. Broadly, I care about human-centric, reliable, and ethical AI for social impact, and about bridging theoretical ML with deployable systems.</p>
   <p>I am also part of the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/">Autonomous Vision Group</a> at the University of Tübingen, where I work with <a href="https://gegeheseri.com/">Gege Gao</a> on <b>physics-grounded post-training and mechanistic world models</b>.</p>
 </section>
 
 <section id="news">
   <h2 class="section-title">News</h2>
   <ul class="news">
+    <li><span class="date">Nov 2026</span><span class="body">Attended <a href="https://swissaisafetydays.ch/programme-2026">Swiss AI Safety Days 2026</a> at ETH Zurich.</span></li>
     <li><span class="date">Oct 2026</span><span class="body">Joined the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/">Autonomous Vision Group</a> for a research project with <a href="https://gegeheseri.com/">Gege Gao</a> on physics-grounded post-training and mechanistic world models.</span></li>
     <li><span class="date">Jul 2026</span><span class="body">Selected for the <b>Eastern European Machine Learning Summer School (<a href="https://www.eeml.eu/">EEML 2026</a>)</b> in Cetinje, Montenegro.</span></li>
     <li><span class="date">Mar 2026</span><span class="body">Attended the <b><a href="https://ellis.eu/events/ellis-winter-school-at-unit-amsterdam-2026">ELLIS Winter School on Foundation Models (FoMo 2026)</a></b> at ELLIS Unit Amsterdam.</span></li>
@@ -56,7 +57,16 @@ redirect_from:
 </section>
 
 <section id="publications">
-  <h2 class="section-title">Selected Publications</h2>
+  <h2 class="section-title">Selected Works</h2>
+
+  <div class="pub">
+    <div class="venue-badge">Work</div>
+    <div class="meta">
+      <div class="title">SuperSAVVY: Training Dataset for Audio-Visual Question Answering Using Geometrically Labelled Egocentric Videos</div>
+      <div class="authors">With <a href="https://edsonroteia.github.io/">Edson Araujo</a> and <a href="https://hildekuehne.github.io/">Prof. Hilde Kuehne</a></div>
+      <div class="where">To be added</div>
+    </div>
+  </div>
 
   <div class="pub">
     <div class="venue-badge">AAAI '24</div>
@@ -109,8 +119,8 @@ redirect_from:
   <h2 class="section-title">Research Interests</h2>
   <div class="tags">
     <span>Multimodal Systems</span>
-    <span>Spatial Audio</span>
-    <span>Spatial-AVQA</span>
+    <span>Fine-Grained Attribution</span>
+    <span>Omni-Language Models</span>
     <span>World Models</span>
     <span>Physics-Grounded Post-Training</span>
     <span>Mechanistic World Models</span>
