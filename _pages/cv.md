@@ -10,8 +10,13 @@ redirect_from:
 
 | Degree | Institution | Duration | GPA/Details |
 |--------|-------------|----------|-------------|
-| **MSc Machine Learning** | University of Tübingen, Germany | 2025 - 2027 | ELIZA research-based Master's Scholarship<br>• Deep Learning, Data Literacy, Science of Machine Learning Benchmarks, AI for Brain Health<br>• Probabilistic & Statistical Machine Learning, Video Analytics<br>• Advancements in Multimodal Systems, AI and Business, Massively Parallel Processing<br>• Research focus: Spatial audio, multimodal systems, Spatial-AVQA, world models (CVML Lab) |
+| **MSc Machine Learning** | University of Tübingen, Germany | 2025 - 2027 | ELIZA research-based Master's Scholarship<br>• Deep Learning, Data Literacy, Science of Machine Learning Benchmarks, AI for Brain Health<br>• Probabilistic & Statistical Machine Learning, Video Analytics<br>• Advancements in Multimodal Systems, AI and Business, Massively Parallel Processing<br>• Research focus: Spatial audio, multimodal systems, Spatial-AVQA, and world models (CVML Lab); physics-grounded post-training and mechanistic world models (Autonomous Vision Group) |
 | **B.Tech Computer Science and Engineering** | Guru Gobind Singh Indraprastha University, Delhi | 2019 - 2023 | GPA: 9.6/10 |
+
+## Current Research
+
+- **Research project student**, [Autonomous Vision Group](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/), University of Tübingen (Oct 2026 – present): working with [Gege Gao](https://gegeheseri.com/) on physics-grounded post-training and mechanistic world models.
+- **CVML Lab**, University of Tübingen: working with Prof. Hilde Kuehne and Edson Araujo on spatial audio, multimodal systems, Spatial-AVQA, and world models.
 
 ## Professional Experience
 
